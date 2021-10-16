@@ -1,4 +1,4 @@
-# DominosGeoLocator
+# GPS GeoLocator
 Inserts GPS coordinates to DB and logs records through RabbitMQ queu
 
 Deployment notes :
